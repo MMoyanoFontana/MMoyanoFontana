@@ -22,5 +22,5 @@ I'm a **4th-year Systems Engineering student** at Universidad Tecnológica Nacio
 
 ## 📫 How to reach me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/maximilianomoyanofontana)
+- [**LinkedIn**](https://www.linkedin.com/in/maximilianomoyanofontana)
 - **Email**: mmoyanofontana@gmail.com
