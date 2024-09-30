@@ -1,8 +1,6 @@
 # 👋 Hello! I'm [Maximiliano Moyano]
 
-I'm a **4th-year Systems Engineering student** at Universidad Tecnológica Nacional (UTN) with a passion for **Machine Learning** and **Artificial Intelligence**. I’m proficient in **Python**, **Java**, **SQL** (MySQL, PostgreSQL).
-
----
+I'm a **4th-year Systems Engineering student** at Universidad Tecnológica Nacional (UTN) with a passion for **Machine Learning** and **Artificial Intelligence**. I’m proficient in **Python** and **Java**
 
 ## 🔧 Technologies & Tools
 
