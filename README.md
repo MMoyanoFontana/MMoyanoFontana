@@ -7,8 +7,8 @@ I'm a **4th-year Systems Engineering student** at Universidad Tecnológica Nacio
 - **Programming Languages**: Python, Java
 - **Databases**: MySQL, PostgreSQL
 - **Frameworks**: FastAPI, Django, SpringBoot
-- **Other Tools**: Git, Linux,
-- **Data Visualization**: Matplotlib, Seaborn, Bokeh
+- **Other Tools**: Git, Linux
+- **Data Visualization**: PowerBI, Tableau, Matplotlib, Seaborn, Bokeh,
 - **Machine Learning**: Keras, TensorFlow, scikit-learn
 
 ---
