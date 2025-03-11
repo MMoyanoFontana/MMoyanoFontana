@@ -5,7 +5,7 @@ I'm a **5th-year Systems Engineering student** at Universidad Tecnológica Nacio
 ## 🔧 Technologies & Tools
 
 - **Programming Languages**: Python, Java
-- **Databases**:  PostgreSQL, SQL Server,
+- **Databases**:  PostgreSQL, SQL Server
 - **Frameworks**: FastAPI, Django, SpringBoot
 - **Other Tools**: Git, Linux
 - **Data Visualization**: PowerBI, Tableau, Matplotlib, Seaborn, Bokeh
