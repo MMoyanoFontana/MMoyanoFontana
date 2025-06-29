@@ -8,8 +8,8 @@ I'm a **5th-year Information Systems Engineering student** at Universidad Tecnol
 - **Databases**:  PostgreSQL, SQL Server
 - **Frameworks**: FastAPI, Django, SpringBoot
 - **Other Tools**: Git, Linux
-- **Data Visualization**: PowerBI, Tableau, Matplotlib, Seaborn, Bokeh
-- **Machine Learning**: Keras, TensorFlow, scikit-learn
+- **Data Visualization**: PowerBI, Matplotlib, Seaborn
+- **Machine Learning**: Keras, TensorFlow, scikit-learn, LangChain
 
 ---
 
